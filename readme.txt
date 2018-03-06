@@ -1,7 +1,19 @@
-This files is the readme.txt for your toolbox. 
+Title : ampmodulator
+Type : Scilab toolbox
+Version : 0.0.8
+Date : 6th March, 2018
+Author : Divyanshu Kumar <divyanshukumarg@gmail.com>
+Description : A toolbox for displaying graphical outputs of amplitude modulation.
+Licence : MIT Licence
+A short and simple permissive license with conditions only requiring preservation of copyright and license notices.
+Licensed works, modifications, and larger works may be distributed under different terms and without source code.
 
-Please update this file to provide information about your toolbox: what it is doing, the author, a few words about the license...
+Permissions
+ Commercial use
+ Modification
+ Distribution
+ Private use
 
-Do NOT keep this file as it is.
-
-See https://wiki.scilab.org/ATOMS#What_are_the_technical_expectations_.3F for more information on how to use the skeleton.
+Limitations
+x Liability
+x Warranty
