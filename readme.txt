@@ -17,3 +17,6 @@ Permissions
 Limitations
 x Liability
 x Warranty
+
+Happy Developing
+Divyanshu Kumar
