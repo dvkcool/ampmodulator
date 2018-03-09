@@ -7,8 +7,8 @@ mode(-1);
 lines(0);
 
 function main_builder()
-    TOOLBOX_NAME  = "toolbox_skeleton";
-    TOOLBOX_TITLE = "Toolbox Skeleton";
+    TOOLBOX_NAME  = "ampmodulator";
+    TOOLBOX_TITLE = "Amplitude Modulator";
     toolbox_dir   = get_absolute_file_path("builder.sce");
 
     // Check Scilab's version
@@ -48,5 +48,3 @@ endfunction
 main_builder();
 clear main_builder; // remove main_builder on stack
 // =============================================================================
-
-
