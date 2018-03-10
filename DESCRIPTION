@@ -1,1 +1,25 @@
-Divyanshu Kumar
+Toolbox: ampmodulator
+
+Title: Amplititude modulator(ampmodulator)
+
+Summary: A toolbox for viewing graphical output of critical modulation of a message signal.
+
+Version: 0.0.8
+
+Author: Divyanshu Kumar
+
+Maintainer: Divyanshu Kumar
+
+Category: Signal Processing
+
+Entity: Divyanshu Kumar
+
+License: MIT License
+
+ScilabVersion: >= 5.4
+
+Depends:
+
+Date: 2018-03-06
+
+Description: A toolbox for viewing graphical output of critical modulation of a message signal.

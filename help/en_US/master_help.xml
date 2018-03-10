@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE book [
 <!--Begin Entities-->
-<!ENTITY a419dd4398e063d37e36070ec9d5842c4 SYSTEM "/home/dvk/Documents/ampmodulator/help/en_US/c_multiplybypi.xml">
-<!ENTITY af8687289a408def88d1f50cba91ff34c SYSTEM "/home/dvk/Documents/ampmodulator/help/en_US/c_sub.xml">
-<!ENTITY a248c83a315677987279f7f06acb033fb SYSTEM "/home/dvk/Documents/ampmodulator/help/en_US/c_sum.xml">
-<!ENTITY af0a4537cfef32a3c65dbea82818b8683 SYSTEM "/home/dvk/Documents/ampmodulator/help/en_US/fortran_sum.xml">
-<!ENTITY aa8b8a40d337bca1ae59e392551fc6202 SYSTEM "/home/dvk/Documents/ampmodulator/help/en_US/scilab_sum.xml">
+<!ENTITY a92b8cbab0a4a7eea30cda5524e821b62 SYSTEM "/Users/divyanshukumar/Documents/ampmodulator/help/en_US/cr_mod.xml">
 <!--End Entities-->
 ]>
 <book version="5.0-subset Scilab" xml:lang="en_US"
@@ -20,12 +16,8 @@
     <title>Amplititude Modulator</title>
   </info>
 
-<part xml:id='section_948fcdc697ccc6203d27116598d32e11'>
+<part xml:id='section_b509353a856f03f99a6e310580dff527'>
 <title>Amplititude Modulator</title>
-&a419dd4398e063d37e36070ec9d5842c4;
-&af8687289a408def88d1f50cba91ff34c;
-&a248c83a315677987279f7f06acb033fb;
-&af0a4537cfef32a3c65dbea82818b8683;
-&aa8b8a40d337bca1ae59e392551fc6202;
+&a92b8cbab0a4a7eea30cda5524e821b62;
 </part>
 </book>
