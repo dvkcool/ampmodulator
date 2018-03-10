@@ -7,4 +7,3 @@ endfunction
 
 buildmacros();
 clear buildmacros; // remove buildmacros on stack
-

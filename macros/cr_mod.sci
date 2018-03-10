@@ -7,4 +7,5 @@ function s = cr_mod(valA,valB)
   xlabel("Time");
   ylabel("Amplititude");
   xtitle("Plot of amplitude modulated wave");
+  s=0;
 endfunction
